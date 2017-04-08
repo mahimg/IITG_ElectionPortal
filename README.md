@@ -84,28 +84,13 @@ ___
 
 URL: */vote/admin*
 
-![Admin](https://github.com/mahimg/IITG_ElectionPortal/blob/master/Screenshots/1.png?raw=true)
+![Admin](https://github.com/mahimg/IITG_ElectionPortal/blob/master/Screenshots/admin.gif)
 
-### Key generator:
-
-URL: */vote/key*
-
-![key](/../master/Screenshots/4.png?raw=true)
 
 
 ### Voter login portal:
 
 URL: */vote/voter*
 
-![Voter](https://github.com/mahimg/IITG_ElectionPortal/blob/master/Screenshots/3.png?raw=true)
-
-### Voting pages:
-
-![Voting](https://github.com/mahimg/IITG_ElectionPortal/blob/master/Screenshots/6.png?raw=true)
-![Voting](https://github.com/mahimg/IITG_ElectionPortal/blob/master/Screenshots/9.png?raw=true)
-
-### Time up notification:
-Automatic logout after timeout.
-
-![Timeout](https://github.com/mahimg/IITG_ElectionPortal/blob/master/Screenshots/15.png?raw=true)
+![Voter](https://github.com/mahimg/IITG_ElectionPortal/blob/master/Screenshots/user.gif)
 
